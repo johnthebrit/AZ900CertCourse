@@ -10,3 +10,5 @@ Click the handout [PDF](John%20Savill's%20AZ-900%20Azure%20Fundamentals%20Certif
 The playlist for this repo can be found at [https://youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3](https://youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3).
 
 Please subscribe to the channel to support ongoing work.
+
+<a href="https://youtube.com/NTFAQGuy" rel="YouTube Channel">![Get Certified](GetCertified.gif)</a>
