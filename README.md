@@ -3,7 +3,7 @@ Repo for the AZ-900 Certification Course Handout
 
 ## Downloading
 
-Click the handout PDF file in the listing then click the Download button.
+Click the handout [PDF](John%20Savill's%20AZ-900%20Azure%20Fundamentals%20Certification%20Course%20Handout.pdf) file in the listing then click the Download button.
 
 ## YouTube Playlist
 
